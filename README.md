@@ -2,7 +2,7 @@
 
 Slug Park Duels is a multiplayer RPG built in Godot 4. Players have to capture slugs, engage in fast-paced duels across the terrain, incorporating physics-based movement and dynamic environments.
 
-The game was originally developed for a StackTooDeep hackathon submission.
+The game was originally developed for StackTooDeep hackathon submission.
 
 ## Playable Build
 

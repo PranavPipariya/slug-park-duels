@@ -2,12 +2,11 @@
 
 A multiplayer RPG game built in Godot 4. Players have to capture slugs, engage in fast-paced race to catch slugs across the terrain, incorporating physics-based movement and dynamic environments.
 
-The game was submitted to StackTooDeep hackathon.
 
 ## Playable Build
 
 - [Itch.io: Slug Park Duels](https://nav9.itch.io/slug-park-duels)
-- [Hackathon Submission](https://devfolio.co/projects/slug-park-duels-86fc)
+
 
 ## Features
 
